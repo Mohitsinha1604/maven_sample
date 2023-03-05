@@ -4,6 +4,7 @@
   Learning new way of CICD pipeline
   this is how pipeline is created.
   Citrix is not working 
+  new pipeline jobs
   
 </body>
 </html>
