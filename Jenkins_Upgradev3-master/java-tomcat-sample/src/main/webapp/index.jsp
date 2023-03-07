@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Sample Website</title>
+    <title>English Classes</title>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Sample Website</h1>
+        <h1>Welcome to English Classes </h1>
     </header>
     <nav>
         <ul>
